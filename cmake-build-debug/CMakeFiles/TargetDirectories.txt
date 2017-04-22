@@ -1,0 +1,3 @@
+/Users/d.ruzh/Project/CodeCpp/CodeCpp-var/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/d.ruzh/Project/CodeCpp/CodeCpp-var/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/d.ruzh/Project/CodeCpp/CodeCpp-var/cmake-build-debug/CMakeFiles/var.dir
